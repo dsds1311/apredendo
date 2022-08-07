@@ -1,0 +1,5 @@
+<table> : a função do "table" é clara, criar uma tabela.
+<table border="1-10"> : a adção do "border" é para criar a borda da tabela, facilitando a vizualisação
+<tr> : linha da tabela.
+<th> : título de cima.
+<td> : é o elemento que vai dentro da tabela.

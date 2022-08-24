@@ -1,0 +1,12 @@
+li {
+  color: rgb(71, 68, 68);
+}
+body {
+  background-image: url(https://i.pinimg.com/originals/9c/53/18/9c53181014e699d083c665b8dfc979a8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rent {
+  border: 2px dashed red;
+  color: blue;
+}

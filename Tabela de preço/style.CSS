@@ -1,0 +1,41 @@
+.home {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: url(https://cdn.wallpapersafari.com/7/76/X5MwVD.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+}
+.VW {
+  color: gray;
+}
+.red {
+  color: red;
+}
+.golf-gti {
+  background-image: url(/img/GTIBACK.png);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-color: black;
+}
+.gti {
+  color: rgb(141, 128, 128);
+}
+#img_redonda {
+  height: 700px;
+  height: 700px;
+  border-radius: 50%;
+}
+.line {
+  display: flex;
+  align-items: center;
+  color: aliceblue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.redb {
+  color: black;
+  background-color: gray;
+  border: 5px solid red;
+}
+.money {
+  color: green;
+}
